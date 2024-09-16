@@ -74,4 +74,8 @@ Ref: codecademy
 
 ## 鐵人賽30天章節快速連結目錄
 
-D1 - 職涯卡住，怎麼翻轉？Alex的親身經歷與方法
+[D1 - 職涯卡住，怎麼翻轉？Alex的親身經歷與方法](https://ithelp.ithome.com.tw/articles/10351094)
+
+## 其他連結
+
+[github: devops-career](https://github.com/qwedsazxc78/devops-career/tree/main)
