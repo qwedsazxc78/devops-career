@@ -30,11 +30,11 @@ Ref: codecademy
 
 職場上，我們常常因為薪水不滿足、工作壓力大而感到挫敗，甚至對自己的市場競爭力產生懷疑，希望這篇挑戰幫助你解決這些問題，讓你在求職路上更加自信。
 
-1. 沒有工作，正想要轉換跑道的轉職者
-2. 正考慮轉換跑道，跨領域到雲端產業發展
-3. 對雲端產業感興趣，不得其門而入
-4. 對現有的工作感到不滿，渴望更好的薪資和成就感
-5. 在雲端領域深耕多年，想要進一步提升自我的職涯
+01. 沒有工作，正想要轉換跑道的轉職者
+02. 正考慮轉換跑道，跨領域到雲端產業發展
+03. 對雲端產業感興趣，不得其門而入
+04. 對現有的工作感到不滿，渴望更好的薪資和成就感
+05. 在雲端領域深耕多年，想要進一步提升自我的職涯
 
 ## 這次鐵人賽希望帶給你的四大求職功法：文章內容四大部分
 
@@ -74,8 +74,57 @@ Ref: codecademy
 
 ## 鐵人賽30天章節快速連結目錄
 
-[D1 - 職涯卡住，怎麼翻轉？Alex的親身經歷與方法](https://ithelp.ithome.com.tw/articles/10351094)
+Introduction
+
+01. [D1-職涯卡住，怎麼翻轉？Alex的親身經歷與方法](https://ithelp.ithome.com.tw/articles/10351094)
+
+PART 1 `心態建立：我一定能成功`
+
+01. [D2-心態建立-明確自己的目標](https://ithelp.ithome.com.tw/articles/10352269)
+02. [D3-從工作角色與年資來制定目標與策略(1)](https://ithelp.ithome.com.tw/articles/10352269)
+03. [D4-從工作角色與年資來制定目標與策略(2)](https://ithelp.ithome.com.tw/articles/10352269)
+04. [D5-制定求職計劃(1)](https://ithelp.ithome.com.tw/articles/10352269)
+05. [D6-制定求職計劃(2)](https://ithelp.ithome.com.tw/articles/10352269)
+06. [D7-執行計畫，保持好心態，訂立檢核點(1)](https://ithelp.ithome.com.tw/articles/10352269)
+07. [D8-執行計畫，保持好心態，訂立檢核點(2)](https://ithelp.ithome.com.tw/articles/10352269)
+
+PART 2 `知己知彼：先了解產業與公司類型`
+
+01. [D9-雲端產業的上中下游](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D9-雲端產業的上中下游.md)
+02. [D10-雲端產業的職業種類](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D10-雲端產業的職業種類.md)
+03. [D11-雲端產業與公司常見問題](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D11-雲端產業與公司常見問題.md)
+04. [D12-轉換跑道時，7個常見問題QA](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D12-轉換跑道時，7個常見問題QA.md)
+
+PART 3 `履歷準備：你的職場名片`
+
+01. [D13-求職履歷先從模仿開始，求職履歷範本！(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D13-求職履歷先從模仿開始，求職履歷範本！(1).md)
+02. [D14-求職履歷先從模仿開始，求職履歷範本！(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D14-求職履歷先從模仿開始，求職履歷範本！(2).md)
+03. [D15-5個履歷的基本原則(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D15-5個履歷的基本原則(1).md)
+04. [D16-5個履歷的基本原則(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D16-5個履歷的基本原則(2).md)
+05. [D17-寫好履歷後的4個準備工作](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D17-寫好履歷後的4個準備工作.md)
+
+PART 4 `面試技巧：展現最好的自己`
+
+01. [D18-了解自己的市場價值(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D18-了解自己的市場價值(1).md)
+02. [D19-了解自己的市場價值(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D19-了解自己的市場價值(2).md)
+03. [D20-面試前準備(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D20-面試前準備(1).md)
+04. [D21-面試前準備(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D21-面試前準備(2).md)
+05. [D22-面試中的流程與心態(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D22-面試中的流程與心態(1).md)
+06. [D23-面試中的流程與心態(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D23-面試中的流程與心態(2).md)
+07. [D24-面試後的心態與禮貌(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D24-面試後的心態與禮貌(1).md)
+08. [D25-面試後的心態與禮貌(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D25-面試後的心態與禮貌(2).md)
+09. [D26-你是面試官，你在意的是？](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D26-你是面試官，你在意的是？.md)
+10. [D27-不同職業的技術面試題-Cloud Engineer雲端工程師](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D27-%E4%B8%8D%E5%90%8C%E8%81%B7%E6%A5%AD%E7%9A%84%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6%E9%A1%8C-Cloud%20Engineer%E9%9B%B2%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB.md)
+11. [D28-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D28-%E4%B8%8D%E5%90%8C%E8%81%B7%E6%A5%AD%E7%9A%84%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6%E9%A1%8C-System%20Admin%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86%E5%93%A1-MIS%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1%E5%B7%A5%E7%A8%8B%E5%B8%AB.md)
+12. [D29-不同職業的技術面試題-DevOps-SRE工程師](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D29-%E4%B8%8D%E5%90%8C%E8%81%B7%E6%A5%AD%E7%9A%84%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6%E9%A1%8C-DevOps-SRE%E5%B7%A5%E7%A8%8B%E5%B8%AB.md)
+13. [D30-五大面向的人格特質面試題](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D30-%E4%BA%94%E5%A4%A7%E9%9D%A2%E5%90%91%E7%9A%84%E4%BA%BA%E6%A0%BC%E7%89%B9%E8%B3%AA%E9%9D%A2%E8%A9%A6%E9%A1%8C.md)
+
+終章 `職場之路`
+
+01. [D31-職場之路：職場走過的人生觀](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D31-%E8%81%B7%E5%A0%B4%E4%B9%8B%E8%B7%AF%EF%BC%9A%E8%81%B7%E5%A0%B4%E8%B5%B0%E9%81%8E%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%80.md)
 
 ## 其他連結
 
 [github: devops-career](https://github.com/qwedsazxc78/devops-career/tree/main)
+
+## `有問題歡迎留言，看到立馬解答`
