@@ -81,7 +81,7 @@ Introduction
 PART 1 `心態建立：我一定能成功`
 
 01. [D2-心態建立-明確自己的目標](https://ithelp.ithome.com.tw/articles/10352269)
-02. [D3-從工作角色與年資來制定目標與策略(1)](https://ithelp.ithome.com.tw/articles/10352269)
+02. [D3-從工作角色與年資來制定目標與策略(1)](https://ithelp.ithome.com.tw/articles/10352821)
 03. [D4-從工作角色與年資來制定目標與策略(2)](https://ithelp.ithome.com.tw/articles/10352269)
 04. [D5-制定求職計劃(1)](https://ithelp.ithome.com.tw/articles/10352269)
 05. [D6-制定求職計劃(2)](https://ithelp.ithome.com.tw/articles/10352269)
