@@ -86,7 +86,7 @@ PART 1 `心態建立：我一定能成功`
 04. [D5-制定求職計劃(1)](https://ithelp.ithome.com.tw/articles/10353698)
 05. [D6-制定求職計劃(2)](https://ithelp.ithome.com.tw/articles/10355044)
 06. [D7-執行計畫，保持好心態，訂立檢核點](https://ithelp.ithome.com.tw/articles/10355532)
-07. [D8-一群人走得遠，找隊友，找教練，打群架](https://ithelp.ithome.com.tw/articles/10352269)
+07. [D8-一群人走得遠，找隊友，找教練，打群架](https://ithelp.ithome.com.tw/articles/10356231)
 
 PART 2 `知己知彼：先了解產業與公司類型`
 
