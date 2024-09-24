@@ -90,7 +90,7 @@ PART 1 `心態建立：我一定能成功`
 
 PART 2 `知己知彼：先了解產業與公司類型`
 
-01. [D9-雲端產業的上中下游](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D9-雲端產業的上中下游.md)
+01. [D9-雲端產業的上中下游](https://ithelp.ithome.com.tw/articles/10357025)
 02. [D10-雲端產業的職業種類](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D10-雲端產業的職業種類.md)
 03. [D11-雲端產業與公司常見問題](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D11-雲端產業與公司常見問題.md)
 04. [D12-轉換跑道時，7個常見問題QA](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D12-轉換跑道時，7個常見問題QA.md)
