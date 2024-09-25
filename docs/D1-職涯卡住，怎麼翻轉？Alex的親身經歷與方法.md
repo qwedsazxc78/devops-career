@@ -13,7 +13,7 @@ Ref: codecademy
 
 ## Introduction
 
-![鐵人賽-30Days](/docs/img/30Days.png)
+![鐵人賽-30Days](https://github.com/qwedsazxc78/devops-career/raw/main/docs/img/30Days.png)
 
 ## 我的職涯卡住經驗：過去的我
 
