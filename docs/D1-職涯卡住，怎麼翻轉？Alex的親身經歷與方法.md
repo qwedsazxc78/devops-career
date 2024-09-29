@@ -95,15 +95,15 @@ PART 1 `心態建立：我一定能成功`
 PART 2 `知己知彼：先了解產業與公司類型`
 
 01. [D9-雲端產業的上中下游](https://ithelp.ithome.com.tw/articles/10357025)
-02. [D10-雲端產業的職業種類](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D10-雲端產業的職業種類.md)
-03. [D11-雲端產業與公司常見問題](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D11-雲端產業與公司常見問題.md)
-04. [D12-轉換跑道時，7個常見問題QA](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D12-轉換跑道時，7個常見問題QA.md)
+02. [D10-雲端產業的職業種類](https://ithelp.ithome.com.tw/articles/10357338)
+03. [D11-雲端產業與公司常見問題](https://ithelp.ithome.com.tw/articles/10357669)
+04. [D12-轉換跑道時，5個常見問題QA](https://ithelp.ithome.com.tw/articles/10358753)
 
 PART 3 `履歷準備：你的職場名片`
 
-01. [D13-求職履歷先從模仿開始，求職履歷範本！(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D13-求職履歷先從模仿開始，求職履歷範本！(1).md)
-02. [D14-求職履歷先從模仿開始，求職履歷範本！(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D14-求職履歷先從模仿開始，求職履歷範本！(2).md)
-03. [D15-5個履歷的基本原則(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D15-5個履歷的基本原則(1).md)
+01. [D13-求職履歷先從模仿開始，求職履歷範本！(1)](https://ithelp.ithome.com.tw/articles/10359364)
+02. [D14-求職履歷先從模仿開始，求職履歷範本！(2)](https://ithelp.ithome.com.tw/articles/10359784)
+03. [D15-5個履歷的基本原則(1)](https://ithelp.ithome.com.tw/articles/10360624)
 04. [D16-5個履歷的基本原則(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D16-5個履歷的基本原則(2).md)
 05. [D17-寫好履歷後的4個準備工作](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D17-寫好履歷後的4個準備工作.md)
 
