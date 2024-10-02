@@ -104,8 +104,8 @@ PART 3 `履歷準備：你的職場名片`
 01. [D13-求職履歷先從模仿開始，求職履歷範本！(1)](https://ithelp.ithome.com.tw/articles/10359364)
 02. [D14-求職履歷先從模仿開始，求職履歷範本！(2)](https://ithelp.ithome.com.tw/articles/10359784)
 03. [D15-5個履歷的基本原則(1)](https://ithelp.ithome.com.tw/articles/10360624)
-04. [D16-5個履歷的基本原則(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D16-5個履歷的基本原則(2).md)
-05. [D17-寫好履歷後的4個準備工作](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D17-寫好履歷後的4個準備工作.md)
+04. [D16-5個履歷的基本原則(2)](https://ithelp.ithome.com.tw/articles/10360648)
+05. [D17-寫好履歷後的4個準備工作](https://ithelp.ithome.com.tw/articles/10361678)
 
 PART 4 `面試技巧：展現最好的自己`
 
