@@ -2,13 +2,13 @@
 
 ![鐵人賽-30Days-P4](https://github.com/qwedsazxc78/devops-career/raw/main/docs/img/30Days-P4.png)
 
-## D29-不同職業的技術面試題-DevOps-SRE工程師
+## D29-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(2)
 
 ## 章節目標
 
 > 快速了解 `雲端產業上中下游的關係` 及代表企業
 
-![D29-不同職業的技術面試題-DevOps-SRE工程師](https://github.com/qwedsazxc78/devops-career/raw/main/docs/img/D12.png)
+![D29-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(2)](https://github.com/qwedsazxc78/devops-career/raw/main/docs/img/D29.png)
 
 雲端產業在全世界蓬勃發展，我們應該快速了解產業鏈裡面的上中下游類型，才能對於雲端產業有初步的認識，雲端產業從上游為 `原廠雲端服務商` 、中游為 `代理商` ，到下游為一般的 `企業用戶` ，各個層面共同促進了雲端技術在各行各業的應用。
 
@@ -54,9 +54,14 @@
 
 ## 參考資料
 
-1. [雲端運算產業鏈簡介](https://ic.tpex.org.tw/introduce.php?ic=5400)
-2. [雲端服務暨巨量資料產業](https://theme.ndc.gov.tw/manpower/cp.aspx?n=C9ECDD0E995DB66B#)
-3. [什麼是雲端服務？四大迷思常見問題，雲端工作如何提升效能降低公司成本？](https://blog.jandi.com/tw/saas-cloud/)
+1. [AWS的領導力原則（AWS Leadership Principles）](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+2. [面試必問10大難題懶人包，面試前看這篇就夠！面試官帶你精闢破解](https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=FANS&id=339445)
+3. [面試問題詳解！13道常見問題回答技巧及提問，AI面試練習這樣做](https://blog.104.com.tw/top-nine-tricky-interview-questions-and-best-answers/)
+4. [內行人才知道的系統設計面試指南](https://www.books.com.tw/products/0010903454)
+5. [給全端工程師的職涯生存筆記：從「履歷×面試×職場」打造無可取代的軟實力](https://www.books.com.tw/products/0010928379)
+6. [ByteByteGo Newsletter系統架構學習](https://blog.bytebytego.com/p/which-cloud-provider-should-be-used)
+7. [AWS Architecture Center](https://aws.amazon.com/architecture/)
+8. [GCP Cloud Architecture Center](https://cloud.google.com/architecture)
 
 ## 其他連結
 

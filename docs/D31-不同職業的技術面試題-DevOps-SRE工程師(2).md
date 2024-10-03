@@ -54,9 +54,14 @@
 
 ## 參考資料
 
-1. [雲端運算產業鏈簡介](https://ic.tpex.org.tw/introduce.php?ic=5400)
-2. [雲端服務暨巨量資料產業](https://theme.ndc.gov.tw/manpower/cp.aspx?n=C9ECDD0E995DB66B#)
-3. [什麼是雲端服務？四大迷思常見問題，雲端工作如何提升效能降低公司成本？](https://blog.jandi.com/tw/saas-cloud/)
+1. [AWS的領導力原則（AWS Leadership Principles）](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+2. [面試必問10大難題懶人包，面試前看這篇就夠！面試官帶你精闢破解](https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=FANS&id=339445)
+3. [面試問題詳解！13道常見問題回答技巧及提問，AI面試練習這樣做](https://blog.104.com.tw/top-nine-tricky-interview-questions-and-best-answers/)
+4. [內行人才知道的系統設計面試指南](https://www.books.com.tw/products/0010903454)
+5. [給全端工程師的職涯生存筆記：從「履歷×面試×職場」打造無可取代的軟實力](https://www.books.com.tw/products/0010928379)
+6. [ByteByteGo Newsletter系統架構學習](https://blog.bytebytego.com/p/which-cloud-provider-should-be-used)
+7. [AWS Architecture Center](https://aws.amazon.com/architecture/)
+8. [GCP Cloud Architecture Center](https://cloud.google.com/architecture)
 
 ## 其他連結
 
