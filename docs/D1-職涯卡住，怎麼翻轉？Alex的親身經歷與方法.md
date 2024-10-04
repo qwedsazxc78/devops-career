@@ -109,9 +109,9 @@ PART 3 `履歷準備：你的職場名片`
 
 PART 4 `面試技巧：展現最好的自己`
 
-01. [D18-了解自己的市場價值(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D18-了解自己的市場價值(1).md)
-02. [D19-了解自己的市場價值(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D19-了解自己的市場價值(2).md)
-03. [D20-面試前準備(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D20-面試前準備(1).md)
+01. [D18-了解自己的市場價值(1)](https://ithelp.ithome.com.tw/articles/10361720)
+02. [D19-了解自己的市場價值(2)](https://ithelp.ithome.com.tw/articles/10362271)
+03. [D20-面試前準備(1)](https://ithelp.ithome.com.tw/articles/10362272)
 04. [D21-面試前準備(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D21-面試前準備(2).md)
 05. [D22-面試中的流程與心態(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D22-面試中的流程與心態(1).md)
 06. [D23-面試中的流程與心態(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D23-面試中的流程與心態(2).md)
