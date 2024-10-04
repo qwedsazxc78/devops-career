@@ -6,7 +6,7 @@
 
 ## 章節目標
 
-> 快速了解 `雲端產業上中下游的關係` 及代表企業
+> 快速了解 `Cloud Engineer雲端工程師` 技術面試問題與核心能力
 
 ![D26-不同職業的技術面試題-Cloud Engineer雲端工程師(1)](https://github.com/qwedsazxc78/devops-career/raw/main/docs/img/D26.png)
 
