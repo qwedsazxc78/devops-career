@@ -112,21 +112,21 @@ PART 4 `面試技巧：展現最好的自己`
 01. [D18-了解自己的市場價值(1)](https://ithelp.ithome.com.tw/articles/10361720)
 02. [D19-了解自己的市場價值(2)](https://ithelp.ithome.com.tw/articles/10362271)
 03. [D20-面試前準備(1)](https://ithelp.ithome.com.tw/articles/10362272)
-04. [D21-面試前準備(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D21-面試前準備(2).md)
-05. [D22-面試中的流程與心態(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D22-面試中的流程與心態(1).md)
-06. [D23-面試中的流程與心態(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D23-面試中的流程與心態(2).md)
-07. [D24-你是面試官，你在意的是？](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D24-面試後的心態與禮貌(1).md)
-08. [D25-技術面試問題的分類](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D25-面試後的心態與禮貌(2).md)
-09. [D26-不同職業的技術面試題-Cloud Engineer雲端工程師(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D26-你是面試官，你在意的是？.md)
-10. [D27-不同職業的技術面試題-Cloud Engineer雲端工程師(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D27-%E4%B8%8D%E5%90%8C%E8%81%B7%E6%A5%AD%E7%9A%84%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6%E9%A1%8C-Cloud%20Engineer%E9%9B%B2%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB.md)
-11. [D28-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D28-%E4%B8%8D%E5%90%8C%E8%81%B7%E6%A5%AD%E7%9A%84%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6%E9%A1%8C-System%20Admin%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86%E5%93%A1-MIS%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1%E5%B7%A5%E7%A8%8B%E5%B8%AB.md)
-12. [D29-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D29-%E4%B8%8D%E5%90%8C%E8%81%B7%E6%A5%AD%E7%9A%84%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6%E9%A1%8C-DevOps-SRE%E5%B7%A5%E7%A8%8B%E5%B8%AB.md)
-13. [D30-不同職業的技術面試題-DevOps-SRE工程師(1)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D30-%E4%BA%94%E5%A4%A7%E9%9D%A2%E5%90%91%E7%9A%84%E4%BA%BA%E6%A0%BC%E7%89%B9%E8%B3%AA%E9%9D%A2%E8%A9%A6%E9%A1%8C.md)
-14. [D31-不同職業的技術面試題-DevOps-SRE工程師(2)](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D30-%E4%BA%94%E5%A4%A7%E9%9D%A2%E5%90%91%E7%9A%84%E4%BA%BA%E6%A0%BC%E7%89%B9%E8%B3%AA%E9%9D%A2%E8%A9%A6%E9%A1%8C.md)
+04. [D21-面試前準備(2)](https://ithelp.ithome.com.tw/articles/10364125)
+05. [D22-面試中的流程與心態(1)](https://ithelp.ithome.com.tw/articles/10364125)
+06. [D23-面試中的流程與心態(2)](https://ithelp.ithome.com.tw/articles/10364125)
+07. [D24-你是面試官，你在意的是？](https://ithelp.ithome.com.tw/articles/10364125)
+08. [D25-技術面試問題的分類](https://ithelp.ithome.com.tw/articles/10364125)
+09. [D26-不同職業的技術面試題-Cloud Engineer雲端工程師(1)](https://ithelp.ithome.com.tw/articles/10364125)
+10. [D27-不同職業的技術面試題-Cloud Engineer雲端工程師(2)](https://ithelp.ithome.com.tw/articles/10364125)
+11. [D28-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(1)](https://ithelp.ithome.com.tw/articles/10364125)
+12. [D29-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(2)](https://ithelp.ithome.com.tw/articles/10364125)
+13. [D30-不同職業的技術面試題-DevOps-SRE工程師(1)](https://ithelp.ithome.com.tw/articles/10364125)
+14. [D31-不同職業的技術面試題-DevOps-SRE工程師(2)](https://ithelp.ithome.com.tw/articles/10364125)
 
 終章 `職場之路`
 
-01. [D32-職場之路：職場走過的人生觀](https://github.com/qwedsazxc78/devops-career/blob/main/docs/D31-%E8%81%B7%E5%A0%B4%E4%B9%8B%E8%B7%AF%EF%BC%9A%E8%81%B7%E5%A0%B4%E8%B5%B0%E9%81%8E%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%80.md)
+01. [D32-職場之路：職場走過的人生觀](https://ithelp.ithome.com.tw/articles/10364125)
 
 ## 其他連結
 
