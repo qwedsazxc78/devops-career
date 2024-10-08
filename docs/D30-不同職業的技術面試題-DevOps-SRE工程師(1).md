@@ -38,7 +38,7 @@ DevOps-SRE工程師也是市場成長迅速，後市看漲的受歡迎職業，�
 * 控制平面（Control Plane）: 負責管理和控制集群，維持集群的期望狀態。
 * 資料平面（Data Plane）: 負責執行應用和處理資料，實際執行容器化的工作負載。
 
-![Control Plane 和 Data Plane 階層示意圖](https://github.com/qwedsazxc78/devops-career/raw/main/docs/img/D31-1.png)
+![Control Plane 和 Data Plane 階層示意圖](https://github.com/qwedsazxc78/devops-career/raw/main/docs/img/D30-1.png)
 
 ### Control Plane和 Data Plane的差異
 
@@ -48,6 +48,17 @@ Control Plane和Data Plane在Kubernetes中各自扮演不同的角色，下表�
 | ---- | ---- |
 | Control Plane (Control Node) | - 功能：負責管理和控制集群，維持集群的期望狀態。 <br> - 元件：包括 API Server、Scheduler、Controller Manager 和 etcd。 <br> - API Server：處理所有的 RESTful API 請求，並提供集群的狀態資訊。 <br> - Scheduler：根據資源需求和策略將新建立的Pod分配到適當的 Node 上。 <br> - Controller Manager：監控集群狀態並確保系統部署 pod 處於所期望的狀態。 <br> - ETCD：分布式鍵值儲存，用於保存集群的所有資料。 |
 | Data Plane (Worker Node pool) | - 功能：負責執行應用和處理資料，實際執行容器化的工作負載。 <br> - 元件：主要由 Node 上的 kubelet、kube-proxy 和container runtime（容器執行時）組成。 <br> - kubelet：執行在每個 Node 上，管理Pod的生命周期。 <br> - kube-proxy：負責網路代理和負載均衡，確保網路正常。 <br> - container runtime（容器執行時）：如Docker、Containerd 和CRI-O，負責拉取和執行容器。 |
+
+在了解Control Plane和Data Plane在Kubernetes的差異後，我們來比較一下AWS或GCP上的雲端服務差異，詳見下表
+
+### AWS 或 GCP 上的 Kubernetes 雲端服務
+
+| 雲端平台 | 雲端服務 | 說明 |
+| ---- | ---- | ---- |
+| AWS | Control Plane | Amazon EKS (Elastic Kubernetes Service) 會自動管理 Kubernetes 的 Control Plane。 |
+|  | Data Plane | 由 Amazon EC2 虛擬機器執行，這些虛擬機器節點作為 Kubernetes 的 Worker Nodes，承載實際的應用程式工作負載。 |
+| GCP | Control Plane | Google Kubernetes Engine (GKE) 會自動管理 Kubernetes 的 Control Plane。 |
+|  | Data Plane | 由 GKE 中的 Google Compute Engine (GCE) 虛擬機器節點執行，這些虛擬機器節點作為 Kubernetes 的 Worker Nodes，承載實際的應用程式工作負載。 |
 
 ## 延伸問題一：請說明Kubernetes中的自動擴展功能（HorizontalPodAutoscaler和Cluster Autoscaler）的運作原理及其應用場景。
 
