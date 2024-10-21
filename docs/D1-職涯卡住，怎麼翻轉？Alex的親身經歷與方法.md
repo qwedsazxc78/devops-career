@@ -112,21 +112,21 @@ PART 4 `面試技巧：展現最好的自己`
 01. [D18-了解自己的市場價值(1)](https://ithelp.ithome.com.tw/articles/10361720)
 02. [D19-了解自己的市場價值(2)](https://ithelp.ithome.com.tw/articles/10362271)
 03. [D20-面試前準備(1)](https://ithelp.ithome.com.tw/articles/10362272)
-04. [D21-面試前準備(2)](https://ithelp.ithome.com.tw/articles/10364125)
+04. [D21-面試前準備(2)](https://ithelp.ithome.com.tw/articles/10363334)
 05. [D22-面試中的流程與心態(1)](https://ithelp.ithome.com.tw/articles/10364125)
-06. [D23-面試中的流程與心態(2)](https://ithelp.ithome.com.tw/articles/10364125)
-07. [D24-你是面試官，你在意的是？](https://ithelp.ithome.com.tw/articles/10364125)
-08. [D25-技術面試問題的分類](https://ithelp.ithome.com.tw/articles/10364125)
-09. [D26-不同職業的技術面試題-Cloud Engineer雲端工程師(1)](https://ithelp.ithome.com.tw/articles/10364125)
-10. [D27-不同職業的技術面試題-Cloud Engineer雲端工程師(2)](https://ithelp.ithome.com.tw/articles/10364125)
-11. [D28-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(1)](https://ithelp.ithome.com.tw/articles/10364125)
-12. [D29-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(2)](https://ithelp.ithome.com.tw/articles/10364125)
-13. [D30-不同職業的技術面試題-DevOps-SRE工程師(1)](https://ithelp.ithome.com.tw/articles/10364125)
-14. [D31-不同職業的技術面試題-DevOps-SRE工程師(2)](https://ithelp.ithome.com.tw/articles/10364125)
+06. [D23-面試中的流程與心態(2)](https://ithelp.ithome.com.tw/articles/10364221)
+07. [D24-你是面試官，你在意的是？](https://ithelp.ithome.com.tw/articles/10364504)
+08. [D25-技術面試問題的分類](https://ithelp.ithome.com.tw/articles/10364508)
+09. [D26-不同職業的技術面試題-Cloud Engineer雲端工程師(1)](https://ithelp.ithome.com.tw/articles/10364505)
+10. [D27-不同職業的技術面試題-Cloud Engineer雲端工程師(2)](https://ithelp.ithome.com.tw/articles/10364844)
+11. [D28-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(1)](https://ithelp.ithome.com.tw/articles/10364845)
+12. [D29-不同職業的技術面試題-System Admin系統管理員-MIS資訊系統工程師(2)](https://ithelp.ithome.com.tw/articles/10364846)
+13. [D30-不同職業的技術面試題-DevOps-SRE工程師(1)](https://ithelp.ithome.com.tw/articles/10364848)
+14. [D31-不同職業的技術面試題-DevOps-SRE工程師(2)](https://ithelp.ithome.com.tw/articles/10364850)
 
 終章 `職場之路`
 
-01. [D32-職場之路：職場走過的人生觀](https://ithelp.ithome.com.tw/articles/10364125)
+01. [D32-職場之路：職場走過的人生觀](https://ithelp.ithome.com.tw/articles/10364851)
 
 ## 其他連結
 
