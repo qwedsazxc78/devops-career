@@ -4,6 +4,14 @@
 
 ## D26-不同職業的技術面試題-Cloud Engineer雲端工程師(1)
 
+## 工商時間
+
+現在跟博碩文化合作寫的書，已經在網路書店販售了！有需要的人可以點擊下面連結！`
+
+[翻轉職涯！雲端 / DevOps / SRE 工程師轉職必殺技：四大步驟帶你找出職能優勢、成功精準轉職的規劃指南（iThome鐵人賽系列書）](https://heyurl.cc/lQ3e4)
+
+![books](https://github.com/qwedsazxc78/devops-career/raw/main/docs/img/books.png)
+
 ## 章節目標
 
 > 快速了解 `Cloud Engineer雲端工程師` 技術面試問題與核心能力
