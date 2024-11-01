@@ -54,8 +54,17 @@ Control Plane和Data Plane在Kubernetes中各自扮演不同的角色，下表�
 
 | 項目 | 說明 |
 | ---- | ---- |
-| Control Plane (Control Node) | - 功能：負責管理和控制集群，維持集群的期望狀態。 <br> - 元件：包括 API Server、Scheduler、Controller Manager 和 etcd。 <br> - API Server：處理所有的 RESTful API 請求，並提供集群的狀態資訊。 <br> - Scheduler：根據資源需求和策略將新建立的Pod分配到適當的 Node 上。 <br> - Controller Manager：監控集群狀態並確保系統部署 pod 處於所期望的狀態。 <br> - ETCD：分布式鍵值儲存，用於保存集群的所有資料。 |
-| Data Plane (Worker Node pool) | - 功能：負責執行應用和處理資料，實際執行容器化的工作負載。 <br> - 元件：主要由 Node 上的 kubelet、kube-proxy 和container runtime（容器執行時）組成。 <br> - kubelet：執行在每個 Node 上，管理Pod的生命周期。 <br> - kube-proxy：負責網路代理和負載均衡，確保網路正常。 <br> - container runtime（容器執行時）：如Docker、Containerd 和CRI-O，負責拉取和執行容器。 |
+| Control Plane (Control Node) | - 功能：負責管理和控制集群，維持集群的期望狀態。 |
+|                         |   - 元件：包括 API Server、Scheduler、Controller Manager 和 etcd。 |
+|                         |   - API Server：處理所有的 RESTful API 請求，並提供集群的狀態資訊。 |
+|                         |   - Scheduler：根據資源需求和策略將新建立的 Pod 分配到適當的 Node 上。 |
+|                         |   - Controller Manager：監控集群狀態並確保系統部署 pod 處於所期望的狀態。 |
+|                         |   - ETCD：分布式鍵值儲存，用於保存集群的所有資料。 |
+| Data Plane (Worker Node pool) | - 功能：負責執行應用和處理資料，實際執行容器化的工作負載。 |
+|                         |   - 元件：主要由 Node 上的 kubelet、kube-proxy 和 container runtime（容器執行時）組成。 |
+|                         |   - kubelet：執行在每個 Node 上，管理 Pod 的生命周期。 |
+|                         |   - kube-proxy：負責網路代理和負載均衡，確保網路正常。 |
+|                         |   - container runtime（容器執行時）：如 Docker、Containerd 和 CRI-O，負責拉取和執行容器。 |
 
 在了解Control Plane和Data Plane在Kubernetes的差異後，我們來比較一下AWS或GCP上的雲端服務差異，詳見下表
 
@@ -91,7 +100,7 @@ Control Plane和Data Plane在Kubernetes中各自扮演不同的角色，下表�
 第30天的文章，我們專注於了解 `不同職業的技術面試題-DevOps-SRE工程師` 的技術面試，文章中先了解 `DevOps-SRE工程師核心能力` ，在立刻來個 `Q1.【基礎知識】請簡單說明Kubernetes 中Control Plane和Data Plane的差異，請問對應到AWS或是GCP上是哪些服務？` ，用來驗證你的雲端與容器化相關基礎知識。從這個問題，可以簡單的驗證你自己是否了解現代容器化操作系統的概念，根據自己的不足再調整應該進修的方向。
 
 * 如果文章的技術面試都能夠回答得非常好，恭喜你！你的功力非常深厚，可以持續邁進！
-* 如果文章的技術面試沒有太過理解，沒事的，現在開始努力都來得及！繼續看下去提升你的實力！ｚｚ
+* 如果文章的技術面試沒有太過理解，沒事的，現在開始努力都來得及！繼續看下去提升你的實力！
 
 ## 參考資料
 
